@@ -1,0 +1,190 @@
+[
+    {
+      "id": 21,
+      "name": "Venom",
+      "cover": "https://resizing.flixster.com/w7oW9FQj1r-lvHn2aNpWEMbXqWc=/180x257/v2/https://resizing.flixster.com/m-_iSmK-QO9H2Iurcv7uu4TrxCM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYwZGZhODY3LTI2YzktNGVkYy05YWJlLTVmMGNmMTY2YWZhNS5qcGc=",
+      "rating": 2.15,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 22,
+      "name": "The Addam's Family 2",
+      "cover": "https://resizing.flixster.com/Qsv4_iz7c6JhCNvUzgN9ixD4DY8=/180x257/v2/https://resizing.flixster.com/UkjsCuTQE9TsbaUBjv1306fV-PA=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYwYTEzY2RkLTUwZjQtNGQyYS04Y2YyLTM1N2VkOWRhNGMxZS5qcGc=",
+      "rating": 1.85,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 23,
+      "name": "The many saints of Newark",
+      "cover": "https://resizing.flixster.com/RepJk2Zmhgnc0xnya0rATtYp6Fw=/180x257/v2/https://resizing.flixster.com/y1aWFiU0Xb1pWJdnPD8YQ9nUKFM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzY0YjU4NmQ3LWIxNzktNDMxOS05Yjg3LWU2YmJiNWIyMDBiZS5qcGc=",
+      "rating": 3.25,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Free Guy",
+      "cover": "https://resizing.flixster.com/uNc3CW-Fa09jrPAkm8XZpNjhzYo=/180x257/v2/https://resizing.flixster.com/xwxxJB2xH5NdYHpX_VBGwBtT54I=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2U1NzRmM2YxLWJmZjctNDYzNS05Mjk4LTVmOGM4NGJiMTQwMS5qcGc=",
+      "rating": 4.15,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Candy Man",
+      "cover": "https://resizing.flixster.com/PsxQgGOGHuH7uZnVYeiIeqh0H-M=/180x257/v2/https://resizing.flixster.com/Hpqr7nXbuWjldQs_1XGUyPExDto=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2MyZDU0OTU5LWMyNDEtNDUyOC1hZmYyLTQwOGE2ZWQ2NjhmMy5qcGc=",
+      "rating": 3.45,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 26,
+      "name": "The Card Counter",
+      "cover": "https://resizing.flixster.com/Ysr6evIRXM5qV6unZwhrFTDklu4=/180x257/v2/https://resizing.flixster.com/LfEmWhyYSAJEqbT9BKeFZJQHBOs=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzAyZWMwZjFiLWU0NWYtNDEyOC04ZjJkLTA3MjM5ZjAzODMxMS5qcGc=",
+      "rating": 3.85,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 27,
+      "name": "3 Idiots",
+      "cover": "assets/images/3Idiots.jpg",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "author": "Rahul Kapoor",
+          "published_on": "2024-07-28 19:00:00",
+          "review": "A heartwarming story about friendship and following one's passion.",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Baahubali: The Beginning",
+      "cover": "assets/images/BaahubaliTheBeginning.jpg",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "author": "Priya Sharma",
+          "published_on": "2024-07-28 19:15:00",
+          "review": "A visually stunning epic that set new benchmarks in Indian cinema.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Dangal",
+      "cover": "assets/images/Dangal.jpg",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "author": "Ankit Singh",
+          "published_on": "2024-07-28 19:30:00",
+          "review": "An inspiring sports drama about determination and the pursuit of excellence.",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Bahubali 2: The Conclusion",
+      "cover": "assets/images/Bahubali2TheConclusion.jpg",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "author": "Anjali Verma",
+          "published_on": "2024-07-28 19:45:00",
+          "review": "A grand and satisfying conclusion to the epic saga.",
+          "rating": 5.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "PK",
+      "cover": "assets/images/PK.jpg",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "author": "Sanjay Mehra",
+          "published_on": "2024-07-28 20:00:00",
+          "review": "A thought-provoking comedy with a strong social message.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Arjun Reddy",
+      "cover": "assets/images/ArjunReddy.jpg",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "author": "Deepika Rao",
+          "published_on": "2024-07-28 20:15:00",
+          "review": "A raw and intense portrayal of love and heartbreak.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Kabir Singh",
+      "cover": "assets/images/KabirSingh.jpg",
+      "rating": 4.3,
+      "reviews": [
+        {
+          "author": "Ravi Patel",
+          "published_on": "2024-07-28 20:30:00",
+          "review": "A passionate love story with powerful performances.",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Bajrangi Bhaijaan",
+      "cover": "assets/images/BajrangiBhaijaan.jpg",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "author": "Meera Sinha",
+          "published_on": "2024-07-28 20:45:00",
+          "review": "A touching story of love and compassion across borders.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Mahanati",
+      "cover": "assets/images/Mahanati.jpg",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "author": "Arjun Reddy",
+          "published_on": "2024-07-28 21:00:00",
+          "review": "A beautiful tribute to the legendary actress Savitri.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gully Boy",
+      "cover": "assets/images/GullyBoy.jpg",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "author": "Sneha Kapoor",
+          "published_on": "2024-07-28 21:15:00",
+          "review": "An inspiring journey of a street rapper's rise to fame.",
+          "rating": 4.6
+        }
+      ]
+    }    
+  ]
